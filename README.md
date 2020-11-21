@@ -24,6 +24,6 @@ I like to tinker with stuff. Thats all I guess.
 
 ### **Languages:** 
 
-C++ - ⭐⭐⭐⭐
-Python - ⭐⭐⭐
-Dart - ⭐⭐⭐⭐
+C++ - ⭐⭐⭐⭐<br>
+Python - ⭐⭐⭐<br>
+Dart - ⭐⭐⭐⭐<br>
