@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 -->
 
 I like to tinker with stuff. Thats all I guess.
+
+### **Technologies:**
+
+- **App Development** - Flutter, Firebase
+- **Backend** - Django
+
+### **Languages:** 
+
+C++ - ⭐⭐⭐⭐
+Python - ⭐⭐⭐
+Dart - ⭐⭐⭐⭐
