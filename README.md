@@ -27,3 +27,5 @@ I like to tinker with stuff. Thats all I guess.
 C++ - ⭐⭐⭐⭐<br>
 Python - ⭐⭐⭐⭐<br>
 Dart - ⭐⭐⭐⭐<br>
+
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmarwaha)
