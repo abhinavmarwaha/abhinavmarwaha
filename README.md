@@ -19,13 +19,14 @@ I like to tinker with stuff. Thats all I guess.
 
 ### **Technologies:**
 
-- **App Development** - Flutter, Firebase
-- **Backend** - Django
+- **Frontend** - Flutter, react
+- **Backend** - Django, Firebase
 
 ### **Languages:** 
 
 C++ - ⭐⭐⭐⭐<br>
 Python - ⭐⭐⭐⭐<br>
 Dart - ⭐⭐⭐⭐<br>
+Javascript - ⭐⭐<br>
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmarwaha)
