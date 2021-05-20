@@ -31,7 +31,7 @@ Javascript - ⭐⭐<br>
 
 ### **Design:**
 
-Illustrator
+Illustrator<br>
 Figma
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmarwaha)
