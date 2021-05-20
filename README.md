@@ -29,4 +29,9 @@ Python - ⭐⭐⭐⭐<br>
 Dart - ⭐⭐⭐⭐<br>
 Javascript - ⭐⭐<br>
 
+### **Design:**
+
+Illustrator
+Figma
+
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmarwaha)
