@@ -32,6 +32,9 @@ Javascript - ⭐⭐<br>
 ### **Design:**
 
 Illustrator<br>
-Figma
+Photoshop<br>
+Figma<br>
+Adobe Xd
+
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmarwaha)
